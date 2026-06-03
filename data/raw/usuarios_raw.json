@@ -1,0 +1,1074 @@
+[
+    {
+        "id_usuario": "USR_1001",
+        "nombre": "Usuario 1",
+        "email": "user_1@example.com",
+        "fecha_registro": "2023-10-17",
+        "pais": "México",
+        "edad": 19
+    },
+    {
+        "id_usuario": "USR_1002",
+        "nombre": "Usuario 2",
+        "email": "user_2@example.com",
+        "fecha_registro": "2024-01-30",
+        "pais": "Perú",
+        "edad": 33
+    },
+    {
+        "id_usuario": "USR_1003",
+        "nombre": "Usuario 3",
+        "email": "user_3@example.com",
+        "fecha_registro": "2022-08-17",
+        "pais": "Colombia",
+        "edad": 65
+    },
+    {
+        "id_usuario": "USR_1004",
+        "nombre": "Usuario 4",
+        "email": "user_4@example.com",
+        "fecha_registro": "2022-04-15",
+        "pais": null,
+        "edad": 65
+    },
+    {
+        "id_usuario": "USR_1005",
+        "nombre": "Usuario 5",
+        "email": "user_5@example.com",
+        "fecha_registro": "02/07/2024",
+        "pais": "Argentina",
+        "edad": 23
+    },
+    {
+        "id_usuario": "USR_1006",
+        "nombre": "Usuario 6",
+        "email": "user_6@example.com",
+        "fecha_registro": "2023-08-28",
+        "pais": "Chile",
+        "edad": 20
+    },
+    {
+        "id_usuario": "USR_1007",
+        "nombre": "Usuario 7",
+        "email": "user_7@example.com",
+        "fecha_registro": "2022-01-31 00:00:00",
+        "pais": "México",
+        "edad": 31
+    },
+    {
+        "id_usuario": "USR_1008",
+        "nombre": "Usuario 8",
+        "email": "user_8@example.com",
+        "fecha_registro": "2022-08-27",
+        "pais": "Argentina",
+        "edad": 56
+    },
+    {
+        "id_usuario": "USR_1009",
+        "nombre": "Usuario 9",
+        "email": "user_9@example.com",
+        "fecha_registro": "2022-01-28",
+        "pais": "Argentina",
+        "edad": 30
+    },
+    {
+        "id_usuario": "USR_1010",
+        "nombre": "Usuario 10",
+        "email": "user_10@example.com",
+        "fecha_registro": "04/01/2024",
+        "pais": null,
+        "edad": 62
+    },
+    {
+        "id_usuario": "USR_1011",
+        "nombre": "Usuario 11",
+        "email": "user_11@example.com",
+        "fecha_registro": "2023-07-13",
+        "pais": "Chile",
+        "edad": 32
+    },
+    {
+        "id_usuario": "USR_1012",
+        "nombre": "Usuario 12",
+        "email": "user_12@example.com",
+        "fecha_registro": "2023-04-05",
+        "pais": "Argentina",
+        "edad": null
+    },
+    {
+        "id_usuario": "USR_1013",
+        "nombre": "Usuario 13",
+        "email": "user_13@example.com",
+        "fecha_registro": "2022-10-12",
+        "pais": "México",
+        "edad": 28
+    },
+    {
+        "id_usuario": "USR_1014",
+        "nombre": "Usuario 14",
+        "email": "user_14@example.com",
+        "fecha_registro": "2023-12-16 00:00:00",
+        "pais": "Chile",
+        "edad": 39
+    },
+    {
+        "id_usuario": "USR_1015",
+        "nombre": "Usuario 15",
+        "email": "user_15@example.com",
+        "fecha_registro": "12/10/2022",
+        "pais": "Colombia",
+        "edad": 31
+    },
+    {
+        "id_usuario": "USR_1016",
+        "nombre": "Usuario 16",
+        "email": "user_16@example.com",
+        "fecha_registro": "2024-09-07",
+        "pais": "Perú",
+        "edad": 24
+    },
+    {
+        "id_usuario": "USR_1017",
+        "nombre": "Usuario 17",
+        "email": "user_17@example.com",
+        "fecha_registro": "2022-04-05",
+        "pais": "Chile",
+        "edad": 24
+    },
+    {
+        "id_usuario": "USR_1018",
+        "nombre": "Usuario 18",
+        "email": "user_18@example.com",
+        "fecha_registro": "2023-01-03",
+        "pais": "Perú",
+        "edad": 56
+    },
+    {
+        "id_usuario": "USR_1019",
+        "nombre": "Usuario 19",
+        "email": "user_19@example.com",
+        "fecha_registro": "2022-09-28",
+        "pais": "México",
+        "edad": 64
+    },
+    {
+        "id_usuario": "USR_1020",
+        "nombre": "Usuario 20",
+        "email": "user_20@example.com",
+        "fecha_registro": "16/04/2023",
+        "pais": "Argentina",
+        "edad": 25
+    },
+    {
+        "id_usuario": "USR_1021",
+        "nombre": "Usuario 21",
+        "email": "user_21@example.com",
+        "fecha_registro": "2024-09-23 00:00:00",
+        "pais": "Chile",
+        "edad": 23
+    },
+    {
+        "id_usuario": "USR_1022",
+        "nombre": "Usuario 22",
+        "email": "user_22@example.com",
+        "fecha_registro": "2023-07-20",
+        "pais": "Perú",
+        "edad": 58
+    },
+    {
+        "id_usuario": "USR_1023",
+        "nombre": "Usuario 23",
+        "email": "user_23@example.com",
+        "fecha_registro": "2023-09-26",
+        "pais": "Perú",
+        "edad": 54
+    },
+    {
+        "id_usuario": "USR_1024",
+        "nombre": "Usuario 24",
+        "email": "user_24@example.com",
+        "fecha_registro": "2022-07-16",
+        "pais": null,
+        "edad": null
+    },
+    {
+        "id_usuario": "USR_1025",
+        "nombre": "Usuario 25",
+        "email": "user_25@example.com",
+        "fecha_registro": "13/03/2022",
+        "pais": "México",
+        "edad": 60
+    },
+    {
+        "id_usuario": "USR_1026",
+        "nombre": "Usuario 26",
+        "email": "user_26@example.com",
+        "fecha_registro": "2022-08-22",
+        "pais": "Perú",
+        "edad": 23
+    },
+    {
+        "id_usuario": "USR_1027",
+        "nombre": "Usuario 27",
+        "email": "user_27@example.com",
+        "fecha_registro": "2024-05-25",
+        "pais": "Colombia",
+        "edad": 24
+    },
+    {
+        "id_usuario": "USR_1028",
+        "nombre": "Usuario 28",
+        "email": "user_28@example.com",
+        "fecha_registro": "2023-01-25 00:00:00",
+        "pais": "Perú",
+        "edad": 47
+    },
+    {
+        "id_usuario": "USR_1029",
+        "nombre": "Usuario 29",
+        "email": "user_29@example.com",
+        "fecha_registro": "2023-10-13",
+        "pais": "Perú",
+        "edad": 28
+    },
+    {
+        "id_usuario": "USR_1030",
+        "nombre": "Usuario 30",
+        "email": "user_30@example.com",
+        "fecha_registro": "15/01/2023",
+        "pais": "Perú",
+        "edad": 31
+    },
+    {
+        "id_usuario": "USR_1031",
+        "nombre": "Usuario 31",
+        "email": "user_31@example.com",
+        "fecha_registro": "2023-11-18",
+        "pais": "Perú",
+        "edad": 62
+    },
+    {
+        "id_usuario": "USR_1032",
+        "nombre": "Usuario 32",
+        "email": "user_32@example.com",
+        "fecha_registro": "2024-08-17",
+        "pais": null,
+        "edad": 59
+    },
+    {
+        "id_usuario": "USR_1033",
+        "nombre": "Usuario 33",
+        "email": "user_33@example.com",
+        "fecha_registro": "2022-03-15",
+        "pais": "Argentina",
+        "edad": 58
+    },
+    {
+        "id_usuario": "USR_1034",
+        "nombre": "Usuario 34",
+        "email": "user_34@example.com",
+        "fecha_registro": "2022-06-25",
+        "pais": "Argentina",
+        "edad": 64
+    },
+    {
+        "id_usuario": "USR_1035",
+        "nombre": "Usuario 35",
+        "email": "user_35@example.com",
+        "fecha_registro": "08/09/2022",
+        "pais": "Colombia",
+        "edad": 47
+    },
+    {
+        "id_usuario": "USR_1036",
+        "nombre": "Usuario 36",
+        "email": "user_36@example.com",
+        "fecha_registro": "2023-01-24",
+        "pais": "Perú",
+        "edad": null
+    },
+    {
+        "id_usuario": "USR_1037",
+        "nombre": "Usuario 37",
+        "email": "user_37@example.com",
+        "fecha_registro": "2024-08-05",
+        "pais": null,
+        "edad": 62
+    },
+    {
+        "id_usuario": "USR_1038",
+        "nombre": "Usuario 38",
+        "email": "user_38@example.com",
+        "fecha_registro": "2023-07-25",
+        "pais": "Colombia",
+        "edad": 61
+    },
+    {
+        "id_usuario": "USR_1039",
+        "nombre": "Usuario 39",
+        "email": "user_39@example.com",
+        "fecha_registro": "2022-11-29",
+        "pais": "México",
+        "edad": 32
+    },
+    {
+        "id_usuario": "USR_1040",
+        "nombre": "Usuario 40",
+        "email": "user_40@example.com",
+        "fecha_registro": "21/04/2024",
+        "pais": "México",
+        "edad": 38
+    },
+    {
+        "id_usuario": "USR_1041",
+        "nombre": "Usuario 41",
+        "email": "user_41@example.com",
+        "fecha_registro": "2023-02-15",
+        "pais": "Perú",
+        "edad": 22
+    },
+    {
+        "id_usuario": "USR_1042",
+        "nombre": "Usuario 42",
+        "email": "user_42@example.com",
+        "fecha_registro": "2022-08-05 00:00:00",
+        "pais": "Argentina",
+        "edad": 63
+    },
+    {
+        "id_usuario": "USR_1043",
+        "nombre": "Usuario 43",
+        "email": "user_43@example.com",
+        "fecha_registro": "2022-11-19",
+        "pais": "Colombia",
+        "edad": 59
+    },
+    {
+        "id_usuario": "USR_1044",
+        "nombre": "Usuario 44",
+        "email": "user_44@example.com",
+        "fecha_registro": "2023-05-27",
+        "pais": "Chile",
+        "edad": 59
+    },
+    {
+        "id_usuario": "USR_1045",
+        "nombre": "Usuario 45",
+        "email": "user_45@example.com",
+        "fecha_registro": "15/04/2023",
+        "pais": "Colombia",
+        "edad": 34
+    },
+    {
+        "id_usuario": "USR_1046",
+        "nombre": "Usuario 46",
+        "email": "user_46@example.com",
+        "fecha_registro": "2022-05-23",
+        "pais": "Colombia",
+        "edad": 65
+    },
+    {
+        "id_usuario": "USR_1047",
+        "nombre": "Usuario 47",
+        "email": "user_47@example.com",
+        "fecha_registro": "2023-07-29",
+        "pais": "Argentina",
+        "edad": 34
+    },
+    {
+        "id_usuario": "USR_1048",
+        "nombre": "Usuario 48",
+        "email": "user_48@example.com",
+        "fecha_registro": "2024-02-04",
+        "pais": "Argentina",
+        "edad": null
+    },
+    {
+        "id_usuario": "USR_1049",
+        "nombre": "Usuario 49",
+        "email": "user_49@example.com",
+        "fecha_registro": "2023-03-15 00:00:00",
+        "pais": "Argentina",
+        "edad": 43
+    },
+    {
+        "id_usuario": "USR_1050",
+        "nombre": "Usuario 50",
+        "email": "user_50@example.com",
+        "fecha_registro": "06/01/2023",
+        "pais": "Colombia",
+        "edad": 26
+    },
+    {
+        "id_usuario": "USR_1051",
+        "nombre": "Usuario 51",
+        "email": "user_51@example.com",
+        "fecha_registro": "2023-06-06",
+        "pais": "Chile",
+        "edad": 23
+    },
+    {
+        "id_usuario": "USR_1052",
+        "nombre": "Usuario 52",
+        "email": "user_52@example.com",
+        "fecha_registro": "2024-02-13",
+        "pais": "México",
+        "edad": 25
+    },
+    {
+        "id_usuario": "USR_1053",
+        "nombre": "Usuario 53",
+        "email": "user_53@example.com",
+        "fecha_registro": "2022-06-06",
+        "pais": null,
+        "edad": 28
+    },
+    {
+        "id_usuario": "USR_1054",
+        "nombre": "Usuario 54",
+        "email": "user_54@example.com",
+        "fecha_registro": "2024-03-22",
+        "pais": null,
+        "edad": 45
+    },
+    {
+        "id_usuario": "USR_1055",
+        "nombre": "Usuario 55",
+        "email": "user_55@example.com",
+        "fecha_registro": "03/09/2023",
+        "pais": "México",
+        "edad": 42
+    },
+    {
+        "id_usuario": "USR_1056",
+        "nombre": "Usuario 56",
+        "email": "user_56@example.com",
+        "fecha_registro": "2023-01-26 00:00:00",
+        "pais": "Argentina",
+        "edad": 47
+    },
+    {
+        "id_usuario": "USR_1057",
+        "nombre": "Usuario 57",
+        "email": "user_57@example.com",
+        "fecha_registro": "2023-06-26",
+        "pais": "Perú",
+        "edad": 53
+    },
+    {
+        "id_usuario": "USR_1058",
+        "nombre": "Usuario 58",
+        "email": "user_58@example.com",
+        "fecha_registro": "2024-05-31",
+        "pais": "México",
+        "edad": 61
+    },
+    {
+        "id_usuario": "USR_1059",
+        "nombre": "Usuario 59",
+        "email": "user_59@example.com",
+        "fecha_registro": "2024-01-09",
+        "pais": "México",
+        "edad": 61
+    },
+    {
+        "id_usuario": "USR_1060",
+        "nombre": "Usuario 60",
+        "email": "user_60@example.com",
+        "fecha_registro": "25/06/2024",
+        "pais": "Argentina",
+        "edad": null
+    },
+    {
+        "id_usuario": "USR_1061",
+        "nombre": "Usuario 61",
+        "email": "user_61@example.com",
+        "fecha_registro": "2024-02-08",
+        "pais": "Perú",
+        "edad": 59
+    },
+    {
+        "id_usuario": "USR_1062",
+        "nombre": "Usuario 62",
+        "email": "user_62@example.com",
+        "fecha_registro": "2022-12-15",
+        "pais": "México",
+        "edad": 36
+    },
+    {
+        "id_usuario": "USR_1063",
+        "nombre": "Usuario 63",
+        "email": "user_63@example.com",
+        "fecha_registro": "2023-03-22 00:00:00",
+        "pais": "Colombia",
+        "edad": 47
+    },
+    {
+        "id_usuario": "USR_1064",
+        "nombre": "Usuario 64",
+        "email": "user_64@example.com",
+        "fecha_registro": "2022-01-04",
+        "pais": null,
+        "edad": 64
+    },
+    {
+        "id_usuario": "USR_1065",
+        "nombre": "Usuario 65",
+        "email": "user_65@example.com",
+        "fecha_registro": "27/09/2022",
+        "pais": "Argentina",
+        "edad": 29
+    },
+    {
+        "id_usuario": "USR_1066",
+        "nombre": "Usuario 66",
+        "email": "user_66@example.com",
+        "fecha_registro": "2023-06-04",
+        "pais": "México",
+        "edad": 58
+    },
+    {
+        "id_usuario": "USR_1067",
+        "nombre": "Usuario 67",
+        "email": "user_67@example.com",
+        "fecha_registro": "2022-11-02",
+        "pais": null,
+        "edad": 50
+    },
+    {
+        "id_usuario": "USR_1068",
+        "nombre": "Usuario 68",
+        "email": "user_68@example.com",
+        "fecha_registro": "2023-09-16",
+        "pais": "Colombia",
+        "edad": 27
+    },
+    {
+        "id_usuario": "USR_1069",
+        "nombre": "Usuario 69",
+        "email": "user_69@example.com",
+        "fecha_registro": "2023-01-18",
+        "pais": "Colombia",
+        "edad": 52
+    },
+    {
+        "id_usuario": "USR_1070",
+        "nombre": "Usuario 70",
+        "email": "user_70@example.com",
+        "fecha_registro": "03/09/2024",
+        "pais": "Argentina",
+        "edad": 18
+    },
+    {
+        "id_usuario": "USR_1071",
+        "nombre": "Usuario 71",
+        "email": "user_71@example.com",
+        "fecha_registro": "2023-09-06",
+        "pais": "Perú",
+        "edad": 49
+    },
+    {
+        "id_usuario": "USR_1072",
+        "nombre": "Usuario 72",
+        "email": "user_72@example.com",
+        "fecha_registro": "2022-01-20",
+        "pais": "México",
+        "edad": null
+    },
+    {
+        "id_usuario": "USR_1073",
+        "nombre": "Usuario 73",
+        "email": "user_73@example.com",
+        "fecha_registro": "2024-08-09",
+        "pais": "Perú",
+        "edad": 37
+    },
+    {
+        "id_usuario": "USR_1074",
+        "nombre": "Usuario 74",
+        "email": "user_74@example.com",
+        "fecha_registro": "2022-09-03",
+        "pais": "México",
+        "edad": 33
+    },
+    {
+        "id_usuario": "USR_1075",
+        "nombre": "Usuario 75",
+        "email": "user_75@example.com",
+        "fecha_registro": "18/06/2024",
+        "pais": "Argentina",
+        "edad": 23
+    },
+    {
+        "id_usuario": "USR_1076",
+        "nombre": "Usuario 76",
+        "email": "user_76@example.com",
+        "fecha_registro": "2022-03-29",
+        "pais": null,
+        "edad": 49
+    },
+    {
+        "id_usuario": "USR_1077",
+        "nombre": "Usuario 77",
+        "email": "user_77@example.com",
+        "fecha_registro": "2024-04-15 00:00:00",
+        "pais": "México",
+        "edad": 52
+    },
+    {
+        "id_usuario": "USR_1078",
+        "nombre": "Usuario 78",
+        "email": "user_78@example.com",
+        "fecha_registro": "2024-02-24",
+        "pais": "Colombia",
+        "edad": 26
+    },
+    {
+        "id_usuario": "USR_1079",
+        "nombre": "Usuario 79",
+        "email": "user_79@example.com",
+        "fecha_registro": "2023-11-07",
+        "pais": "Chile",
+        "edad": 53
+    },
+    {
+        "id_usuario": "USR_1080",
+        "nombre": "Usuario 80",
+        "email": "user_80@example.com",
+        "fecha_registro": "19/06/2022",
+        "pais": "Perú",
+        "edad": 51
+    },
+    {
+        "id_usuario": "USR_1081",
+        "nombre": "Usuario 81",
+        "email": "user_81@example.com",
+        "fecha_registro": "2024-06-12",
+        "pais": "Argentina",
+        "edad": 45
+    },
+    {
+        "id_usuario": "USR_1082",
+        "nombre": "Usuario 82",
+        "email": "user_82@example.com",
+        "fecha_registro": "2024-09-14",
+        "pais": "Colombia",
+        "edad": 52
+    },
+    {
+        "id_usuario": "USR_1083",
+        "nombre": "Usuario 83",
+        "email": "user_83@example.com",
+        "fecha_registro": "2024-02-13",
+        "pais": null,
+        "edad": 62
+    },
+    {
+        "id_usuario": "USR_1084",
+        "nombre": "Usuario 84",
+        "email": "user_84@example.com",
+        "fecha_registro": "2022-07-25 00:00:00",
+        "pais": null,
+        "edad": null
+    },
+    {
+        "id_usuario": "USR_1085",
+        "nombre": "Usuario 85",
+        "email": "user_85@example.com",
+        "fecha_registro": "16/11/2022",
+        "pais": "Chile",
+        "edad": 60
+    },
+    {
+        "id_usuario": "USR_1086",
+        "nombre": "Usuario 86",
+        "email": "user_86@example.com",
+        "fecha_registro": "2023-10-28",
+        "pais": "Perú",
+        "edad": 46
+    },
+    {
+        "id_usuario": "USR_1087",
+        "nombre": "Usuario 87",
+        "email": "user_87@example.com",
+        "fecha_registro": "2024-07-10",
+        "pais": "Argentina",
+        "edad": 46
+    },
+    {
+        "id_usuario": "USR_1088",
+        "nombre": "Usuario 88",
+        "email": "user_88@example.com",
+        "fecha_registro": "2022-05-04",
+        "pais": "Colombia",
+        "edad": 32
+    },
+    {
+        "id_usuario": "USR_1089",
+        "nombre": "Usuario 89",
+        "email": "user_89@example.com",
+        "fecha_registro": "2022-03-07",
+        "pais": "Perú",
+        "edad": 19
+    },
+    {
+        "id_usuario": "USR_1090",
+        "nombre": "Usuario 90",
+        "email": "user_90@example.com",
+        "fecha_registro": "26/08/2023",
+        "pais": "Argentina",
+        "edad": 32
+    },
+    {
+        "id_usuario": "USR_1091",
+        "nombre": "Usuario 91",
+        "email": "user_91@example.com",
+        "fecha_registro": "2023-08-26 00:00:00",
+        "pais": "Colombia",
+        "edad": 18
+    },
+    {
+        "id_usuario": "USR_1092",
+        "nombre": "Usuario 92",
+        "email": "user_92@example.com",
+        "fecha_registro": "2022-03-14",
+        "pais": null,
+        "edad": 58
+    },
+    {
+        "id_usuario": "USR_1093",
+        "nombre": "Usuario 93",
+        "email": "user_93@example.com",
+        "fecha_registro": "2022-03-02",
+        "pais": "Colombia",
+        "edad": 22
+    },
+    {
+        "id_usuario": "USR_1094",
+        "nombre": "Usuario 94",
+        "email": "user_94@example.com",
+        "fecha_registro": "2024-07-16",
+        "pais": "México",
+        "edad": 39
+    },
+    {
+        "id_usuario": "USR_1095",
+        "nombre": "Usuario 95",
+        "email": "user_95@example.com",
+        "fecha_registro": "14/03/2022",
+        "pais": "Argentina",
+        "edad": 33
+    },
+    {
+        "id_usuario": "USR_1096",
+        "nombre": "Usuario 96",
+        "email": "user_96@example.com",
+        "fecha_registro": "2022-10-13",
+        "pais": null,
+        "edad": null
+    },
+    {
+        "id_usuario": "USR_1097",
+        "nombre": "Usuario 97",
+        "email": "user_97@example.com",
+        "fecha_registro": "2023-05-13",
+        "pais": "Colombia",
+        "edad": 52
+    },
+    {
+        "id_usuario": "USR_1098",
+        "nombre": "Usuario 98",
+        "email": "user_98@example.com",
+        "fecha_registro": "2022-05-16 00:00:00",
+        "pais": null,
+        "edad": 54
+    },
+    {
+        "id_usuario": "USR_1099",
+        "nombre": "Usuario 99",
+        "email": "user_99@example.com",
+        "fecha_registro": "2023-08-14",
+        "pais": "Chile",
+        "edad": 33
+    },
+    {
+        "id_usuario": "USR_1100",
+        "nombre": "Usuario 100",
+        "email": "user_100@example.com",
+        "fecha_registro": "14/03/2024",
+        "pais": "Chile",
+        "edad": 44
+    },
+    {
+        "id_usuario": "USR_1101",
+        "nombre": "Usuario 101",
+        "email": "user_101@example.com",
+        "fecha_registro": "2022-07-14",
+        "pais": "México",
+        "edad": 24
+    },
+    {
+        "id_usuario": "USR_1102",
+        "nombre": "Usuario 102",
+        "email": "user_102@example.com",
+        "fecha_registro": "2023-11-06",
+        "pais": "Chile",
+        "edad": 40
+    },
+    {
+        "id_usuario": "USR_1103",
+        "nombre": "Usuario 103",
+        "email": "user_103@example.com",
+        "fecha_registro": "2023-03-10",
+        "pais": "Chile",
+        "edad": 47
+    },
+    {
+        "id_usuario": "USR_1104",
+        "nombre": "Usuario 104",
+        "email": "user_104@example.com",
+        "fecha_registro": "2024-06-03",
+        "pais": null,
+        "edad": 21
+    },
+    {
+        "id_usuario": "USR_1105",
+        "nombre": "Usuario 105",
+        "email": "user_105@example.com",
+        "fecha_registro": "21/11/2023",
+        "pais": null,
+        "edad": 59
+    },
+    {
+        "id_usuario": "USR_1106",
+        "nombre": "Usuario 106",
+        "email": "user_106@example.com",
+        "fecha_registro": "2022-04-11",
+        "pais": "México",
+        "edad": 43
+    },
+    {
+        "id_usuario": "USR_1107",
+        "nombre": "Usuario 107",
+        "email": "user_107@example.com",
+        "fecha_registro": "2024-01-16",
+        "pais": "Perú",
+        "edad": 24
+    },
+    {
+        "id_usuario": "USR_1108",
+        "nombre": "Usuario 108",
+        "email": "user_108@example.com",
+        "fecha_registro": "2022-09-12",
+        "pais": "Colombia",
+        "edad": null
+    },
+    {
+        "id_usuario": "USR_1109",
+        "nombre": "Usuario 109",
+        "email": "user_109@example.com",
+        "fecha_registro": "2022-07-14",
+        "pais": "Argentina",
+        "edad": 46
+    },
+    {
+        "id_usuario": "USR_1110",
+        "nombre": "Usuario 110",
+        "email": "user_110@example.com",
+        "fecha_registro": "24/05/2022",
+        "pais": "Chile",
+        "edad": 29
+    },
+    {
+        "id_usuario": "USR_1111",
+        "nombre": "Usuario 111",
+        "email": "user_111@example.com",
+        "fecha_registro": "2022-10-13",
+        "pais": "Chile",
+        "edad": 33
+    },
+    {
+        "id_usuario": "USR_1112",
+        "nombre": "Usuario 112",
+        "email": "user_112@example.com",
+        "fecha_registro": "2024-06-14 00:00:00",
+        "pais": "México",
+        "edad": 46
+    },
+    {
+        "id_usuario": "USR_1113",
+        "nombre": "Usuario 113",
+        "email": "user_113@example.com",
+        "fecha_registro": "2024-04-07",
+        "pais": "Argentina",
+        "edad": 24
+    },
+    {
+        "id_usuario": "USR_1114",
+        "nombre": "Usuario 114",
+        "email": "user_114@example.com",
+        "fecha_registro": "2022-02-21",
+        "pais": null,
+        "edad": 52
+    },
+    {
+        "id_usuario": "USR_1115",
+        "nombre": "Usuario 115",
+        "email": "user_115@example.com",
+        "fecha_registro": "06/05/2024",
+        "pais": "México",
+        "edad": 23
+    },
+    {
+        "id_usuario": "USR_1116",
+        "nombre": "Usuario 116",
+        "email": "user_116@example.com",
+        "fecha_registro": "2024-08-06",
+        "pais": "Colombia",
+        "edad": 28
+    },
+    {
+        "id_usuario": "USR_1117",
+        "nombre": "Usuario 117",
+        "email": "user_117@example.com",
+        "fecha_registro": "2023-02-21",
+        "pais": "Chile",
+        "edad": 48
+    },
+    {
+        "id_usuario": "USR_1118",
+        "nombre": "Usuario 118",
+        "email": "user_118@example.com",
+        "fecha_registro": "2022-08-07",
+        "pais": "Chile",
+        "edad": 21
+    },
+    {
+        "id_usuario": "USR_1119",
+        "nombre": "Usuario 119",
+        "email": "user_119@example.com",
+        "fecha_registro": "2022-06-18 00:00:00",
+        "pais": "Chile",
+        "edad": 18
+    },
+    {
+        "id_usuario": "USR_1120",
+        "nombre": "Usuario 120",
+        "email": "user_120@example.com",
+        "fecha_registro": "04/02/2023",
+        "pais": "Perú",
+        "edad": null
+    },
+    {
+        "id_usuario": "USR_1001",
+        "nombre": "Usuario 1 Modificado",
+        "email": "user_1@example.com",
+        "fecha_registro": "2025-05-15",
+        "pais": "España",
+        "edad": 30
+    },
+    {
+        "id_usuario": "USR_1002",
+        "nombre": "Usuario 2 Modificado",
+        "email": "user_2@example.com",
+        "fecha_registro": "2025-05-15",
+        "pais": "España",
+        "edad": 30
+    },
+    {
+        "id_usuario": "USR_1003",
+        "nombre": "Usuario 3 Modificado",
+        "email": "user_3@example.com",
+        "fecha_registro": "2025-05-15",
+        "pais": "España",
+        "edad": 30
+    },
+    {
+        "id_usuario": "USR_1004",
+        "nombre": "Usuario 4 Modificado",
+        "email": "user_4@example.com",
+        "fecha_registro": "2025-05-15",
+        "pais": "España",
+        "edad": 30
+    },
+    {
+        "id_usuario": "USR_1005",
+        "nombre": "Usuario 5 Modificado",
+        "email": "user_5@example.com",
+        "fecha_registro": "2025-05-15",
+        "pais": "España",
+        "edad": 30
+    },
+    {
+        "id_usuario": "USR_1006",
+        "nombre": "Usuario 6 Modificado",
+        "email": "user_6@example.com",
+        "fecha_registro": "2025-05-15",
+        "pais": "España",
+        "edad": 30
+    },
+    {
+        "id_usuario": "USR_1007",
+        "nombre": "Usuario 7 Modificado",
+        "email": "user_7@example.com",
+        "fecha_registro": "2025-05-15",
+        "pais": "España",
+        "edad": 30
+    },
+    {
+        "id_usuario": "USR_1008",
+        "nombre": "Usuario 8 Modificado",
+        "email": "user_8@example.com",
+        "fecha_registro": "2025-05-15",
+        "pais": "España",
+        "edad": 30
+    },
+    {
+        "id_usuario": "USR_1009",
+        "nombre": "Usuario 9 Modificado",
+        "email": "user_9@example.com",
+        "fecha_registro": "2025-05-15",
+        "pais": "España",
+        "edad": 30
+    },
+    {
+        "id_usuario": "USR_1010",
+        "nombre": "Usuario 10 Modificado",
+        "email": "user_10@example.com",
+        "fecha_registro": "2025-05-15",
+        "pais": "España",
+        "edad": 30
+    },
+    {
+        "id_usuario": "USR_1011",
+        "nombre": "Usuario 11 Modificado",
+        "email": "user_11@example.com",
+        "fecha_registro": "2025-05-15",
+        "pais": "España",
+        "edad": 30
+    },
+    {
+        "id_usuario": "USR_1012",
+        "nombre": "Usuario 12 Modificado",
+        "email": "user_12@example.com",
+        "fecha_registro": "2025-05-15",
+        "pais": "España",
+        "edad": 30
+    },
+    {
+        "id_usuario": "USR_1013",
+        "nombre": "Usuario 13 Modificado",
+        "email": "user_13@example.com",
+        "fecha_registro": "2025-05-15",
+        "pais": "España",
+        "edad": 30
+    },
+    {
+        "id_usuario": "USR_1014",
+        "nombre": "Usuario 14 Modificado",
+        "email": "user_14@example.com",
+        "fecha_registro": "2025-05-15",
+        "pais": "España",
+        "edad": 30
+    }
+]

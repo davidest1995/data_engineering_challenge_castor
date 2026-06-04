@@ -16,7 +16,7 @@ def clean_monto(df):
     Elimina '$', ',' y espacios, luego castea a Double.
     """
     return df.withColumn(
-        "monto_clean",
+        "monto",
         F.regexp_replace(F.col("monto"), r"[\$,\s]", "").cast("double")
     )
 
@@ -35,6 +35,6 @@ def test_clean_monto(spark):
     result_df = clean_monto(df)
     results = result_df.collect()
     
-    assert results[0]["monto_clean"] == 1000.50
-    assert results[1]["monto_clean"] == 500.0
-    assert results[2]["monto_clean"] == 2500.0
+    assert results[0]["monto"] == 1000.50
+    assert results[1]["monto"] == 500.0
+    assert results[2]["monto"] == 2500.0

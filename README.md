@@ -1,5 +1,5 @@
 # Prueba Técnica — Senior Data Engineer + BI
-**Candidato:** [Tu nombre]
+**Candidato:** David Esteban Arenas Ossa
 **Empresa:** Castor
 **Fecha:** Junio 2026
 
